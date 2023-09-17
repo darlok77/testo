@@ -28,7 +28,7 @@ class Home extends Component {
         <h1 id="titleHome">Welcome to the weather app</h1>
         <div id="contentHome">
           <p> This app allows you to know meteorological information about the city you want </p>
-          <p> Starting off is easy peasy. Connect yourself </p>
+          <p> Starting off is easy peasy. Connect yourself (top right) </p>
         </div>
       </div>
     )

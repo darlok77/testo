@@ -61,7 +61,7 @@ const Login = () => {
 
   return (
     <div>
-      <div onClick={handleOpen}>Login</div>
+      <div className="login-text" onClick={handleOpen}>Login</div>
       <Modal
         aria-labelledby="simple-modal-title"
         aria-describedby="simple-modal-description"
